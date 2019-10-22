@@ -1,0 +1,10 @@
+username     : cssSelector:-div input.whsOnd[autocomplete="username"][id="identifierId"]    
+nextButton   : cssSelector:-span.CwaK9>span.RveJvd
+password     : cssSelector:-div>input.whsOnd[type="password"][autocomplete="current-password"]
+loginButton  : cssSelector:-div.qhFLie span>span.RveJvd 
+index        : xpath:-(//span//a[@title="Inbox"  and text()="Inbox"]/following::div[@class="bsU"])[1]
+firstMail    : cssSelector:-tr.zA  #cssSelector:-tr.zA[id=":2u"]
+loginPanel   : cssSelector:-a.active>span
+HrisuserName : "cssSelector:-input#txtUserName"
+Hrispassword : "cssSelector:-input#txtPassword"
+signInButton : cssSelector:-input.btn

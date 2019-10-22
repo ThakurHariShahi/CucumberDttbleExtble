@@ -1,0 +1,7 @@
+Chrome :
+  webDriver     : "webdriver.chrome.driver"
+  webDriverPath : config/browser/chromedriver.exe
+  
+Firefox :
+  webDriver     : webdriver.gecko.driver
+  webDriverPath : "config/browser/geckodriver.exe"  
